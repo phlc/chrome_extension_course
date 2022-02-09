@@ -1,0 +1,20 @@
+#Untracked File:
+
+#VS Code config
+.vscode*
+
+#Java .class
+*.class
+
+#Temps Vim
+*.swp
+
+#zip
+*.zip
+
+#in/out
+*.in
+*.out
+
+#resources folder
+resources
